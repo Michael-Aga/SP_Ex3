@@ -293,6 +293,4 @@ int main()
     atbashSequences();
     printf("\n");
     anagramSequences();
-    printf("\n");
-    return 1;
 }
